@@ -1,0 +1,77 @@
+@media screen and (max-width: 1280px) {
+
+ body {
+    margin: auto;
+    width: 375px;
+    height: auto;
+ }   
+
+  h1 {
+
+    font-size: 30px;
+
+
+  }  
+
+p {
+    
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+
+}
+
+div {
+    text-align: center;
+
+    
+}
+
+}
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    height: 1440px;
+}
+
+
+
+
+#ext {
+    background-color: hsl(0, 0%, 100%);
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 20px;
+
+
+}
+
+#rq {
+    width: 280px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: 'Solitreo';
+}
+
+#one {
+    font-family: 'Outfit';
+    font: bold;
+
+}
+
+.attribution {
+   
+    width: 300px;
+    
+    
+font-size: 20px;
+}
